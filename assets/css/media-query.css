@@ -1,0 +1,14 @@
+@media (max-width: 960px) {
+    .form-area {
+        box-shadow: none;
+        border: none;
+    }
+}
+@media (max-width: 330px) {
+    .form-area h2 {
+        font-size: 1.2rem;
+    }
+    .input {
+        width: 270px;
+    }
+}
